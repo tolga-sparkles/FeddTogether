@@ -116,19 +116,14 @@ FeedTogether is an integrated system designed to streamline client tracking for 
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
-| Login Page | Home Page | Meal Plan | Scoreboard |
-|:----------:|:---------:|:---------:|:----------:|
-| <img src="docs/images/login_page.png" width="140"/> | <img src="docs/images/home_page.png" width="140"/> | <img src="docs/images/meal_plan.png" width="140"/> | <img src="docs/images/scoreboard.png" width="140"/> |
+| Login Page | Home Page | Meal Plan |
+|:----------:|:---------:|:---------:|
+| <img src="docs/images/login_page.png" width="200"/> | <img src="docs/images/home_page.png" width="200"/> | <img src="docs/images/meal_plan.png" width="200"/> |
 
-| Daily Summary | BMI Calculator | Home Screen | Daily Summary Screen |
-|:-------------:|:-------------:|:-----------:|:-------------------:|
-| <img src="docs/images/daily_summary.png" width="140"/> | <img src="docs/images/BMI_calculator.png" width="140"/> | <img src="docs/images/screen_home.png" width="140"/> | <img src="docs/images/screen_daily.png" width="140"/> |
-
-| Meal Plan View | BMI Calculator View |
-|:--------------:|:------------------:|
-| <img src="docs/images/screen_plan.png" width="140"/> | <img src="docs/images/screen_bmi.png" width="140"/> |
+| Scoreboard | Daily Summary | BMI Calculator |
+|:----------:|:-------------:|:--------------:|
+| <img src="docs/images/scoreboard.png" width="200"/> | <img src="docs/images/daily_summary.png" width="200"/> | <img src="docs/images/BMI_calculator.png" width="200"/> |
 
 ---
 
@@ -279,31 +274,13 @@ FeedTogether, beslenme alanındaki profesyonellerin (diyetisyenlerin) danışan 
 
 ## 📸 Ekran Görüntüleri
 
-**Giriş Sayfası**  
-![Giriş Sayfası](docs/images/login_page.png)
+| Giriş Sayfası | Ana Sayfa | Yemek Planı |
+|:-------------:|:---------:|:-----------:|
+| <img src="docs/images/login_page.png" width="200"/> | <img src="docs/images/home_page.png" width="200"/> | <img src="docs/images/meal_plan.png" width="200"/> |
 
-**Ana Sayfa**  
-![Ana Sayfa](docs/images/home_page.png)
-
-**Yemek Planı**  
-![Yemek Planı](docs/images/meal_plan.png)
-
-**Skor Tablosu**  
-![Skor Tablosu](docs/images/scoreboard.png)
-
-**Günlük Özet**  
-![Günlük Özet](docs/images/daily_summary.png)
-
-**BMI Hesaplama**  
-![BMI Hesaplama](docs/images/BMI_calculator.png)
-
-| Ana Ekran                         | Günlük Özet                  |
-| :--------------------------------: | :--------------------------:|
-| ![Ana Ekran](docs/images/screen_home.png) | ![Günlük Özet](docs/images/screen_daily.png) |
-
-| Yemek Planı Ekranı                | BMI Hesaplama                |
-| :-------------------------------: | :--------------------------:|
-| ![Yemek Planı](docs/images/screen_plan.png) | ![BMI Hesaplama](docs/images/screen_bmi.png) |
+| Skor Tablosu | Günlük Özet | BMI Hesaplama |
+|:------------:|:-----------:|:-------------:|
+| <img src="docs/images/scoreboard.png" width="200"/> | <img src="docs/images/daily_summary.png" width="200"/> | <img src="docs/images/BMI_calculator.png" width="200"/> |
 
 ---
 
