@@ -119,7 +119,7 @@ FeedTogether is an integrated system designed to streamline client tracking for 
 
 | Login Page | Home Page | Meal Plan |
 |:----------:|:---------:|:---------:|
-| <img src="docs/images/login_page.png" width="200"/> | <img src="docs/images/home_page.png" width="200"/> | <img src="docs/images/meal_plan.png" width="200"/> |
+| <img src="docs/images/login_page.png" width="400"/> | <img src="docs/images/home_page.png" width="200"/> | <img src="docs/images/meal_plan.png" width="200"/> |
 
 | Scoreboard | Daily Summary | BMI Calculator |
 |:----------:|:-------------:|:--------------:|
