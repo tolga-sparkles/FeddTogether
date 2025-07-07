@@ -117,33 +117,25 @@ FeedTogether is an integrated system designed to streamline client tracking for 
 
 ## 📸 Screenshots
 
-| Login Page               | Home Page                 |
-| :----------------------: | :-----------------------: |
-| ![Login](docs/images/login_page.png) | ![Home](docs/images/home_page.png) |
+| Login Page                                                    | Home Page                                                     |
+|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
+| <img src="docs/images/login_page.png" width="220"/>           | <img src="docs/images/home_page.png" width="220"/>            |
 
-| Meal Plan                | Scoreboard                |
-| :----------------------: | :-----------------------: |
-| ![Meal Plan](docs/images/meal_plan.png) | ![Scoreboard](docs/images/scoreboard.png) |
+| Meal Plan                                                     | Scoreboard                                                    |
+|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
+| <img src="docs/images/meal_plan.png" width="220"/>            | <img src="docs/images/scoreboard.png" width="220"/>           |
 
-| Daily Summary            | BMI Calculator            |
-| :----------------------: | :-----------------------: |
-| ![Daily Summary](docs/images/daily_summary.png) | ![BMI Calculator](docs/images/BMI_calculator.png) |
+| Daily Summary                                                 | BMI Calculator                                                |
+|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
+| <img src="docs/images/daily_summary.png" width="220"/>        | <img src="docs/images/BMI_calculator.png" width="220"/>       |
 
-| Home Screen              | Daily Summary Screen      |
-| :----------------------: | :-----------------------: |
-| ![Home Screen](docs/images/screen_home.png) | ![Daily Summary Screen](docs/images/screen_daily.png) |
+| Home Screen                                                   | Daily Summary Screen                                          |
+|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
+| <img src="docs/images/screen_home.png" width="220"/>          | <img src="docs/images/screen_daily.png" width="220"/>         |
 
-| Meal Plan View           | BMI Calculator View       |
-| :----------------------: | :-----------------------: |
-| ![Meal Plan View](docs/images/screen_plan.png) | ![BMI Calculator View](docs/images/screen_bmi.png) |
-
-| Home Screen                        | Daily Summary                  |
-| :---------------------------------:|:-----------------------------: |
-| ![Home Screen](docs/images/screen_home.png) | ![Daily Summary](docs/images/screen_daily.png) |
-
-| Meal Plan View                     | BMI Calculator                 |
-| :---------------------------------:|:-----------------------------: |
-| ![Meal Plan](docs/images/screen_plan.png) | ![BMI Calculator](docs/images/screen_bmi.png) |
+| Meal Plan View                                                | BMI Calculator View                                           |
+|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
+| <img src="docs/images/screen_plan.png" width="220"/>          | <img src="docs/images/screen_bmi.png" width="220"/>           |
 
 ---
 
