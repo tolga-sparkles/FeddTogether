@@ -119,11 +119,11 @@ FeedTogether is an integrated system designed to streamline client tracking for 
 
 | Login Page | Home Page | Meal Plan |
 |:----------:|:---------:|:---------:|
-| <img src="docs/images/login_page.png" width="400"/> | <img src="docs/images/home_page.png" width="200"/> | <img src="docs/images/meal_plan.png" width="200"/> |
+| <img src="docs/images/login_page.png" width="300"/> | <img src="docs/images/home_page.png" width="300"/> | <img src="docs/images/meal_plan.png" width="300"/> |
 
 | Scoreboard | Daily Summary | BMI Calculator |
 |:----------:|:-------------:|:--------------:|
-| <img src="docs/images/scoreboard.png" width="200"/> | <img src="docs/images/daily_summary.png" width="200"/> | <img src="docs/images/BMI_calculator.png" width="200"/> |
+| <img src="docs/images/scoreboard.png" width="300"/> | <img src="docs/images/daily_summary.png" width="300"/> | <img src="docs/images/BMI_calculator.png" width="300"/> |
 
 ---
 
@@ -276,11 +276,11 @@ FeedTogether, beslenme alanındaki profesyonellerin (diyetisyenlerin) danışan 
 
 | Giriş Sayfası | Ana Sayfa | Yemek Planı |
 |:-------------:|:---------:|:-----------:|
-| <img src="docs/images/login_page.png" width="200"/> | <img src="docs/images/home_page.png" width="200"/> | <img src="docs/images/meal_plan.png" width="200"/> |
+| <img src="docs/images/login_page.png" width="300"/> | <img src="docs/images/home_page.png" width="300"/> | <img src="docs/images/meal_plan.png" width="300"/> |
 
 | Skor Tablosu | Günlük Özet | BMI Hesaplama |
 |:------------:|:-----------:|:-------------:|
-| <img src="docs/images/scoreboard.png" width="200"/> | <img src="docs/images/daily_summary.png" width="200"/> | <img src="docs/images/BMI_calculator.png" width="200"/> |
+| <img src="docs/images/scoreboard.png" width="300"/> | <img src="docs/images/daily_summary.png" width="300"/> | <img src="docs/images/BMI_calculator.png" width="300"/> |
 
 ---
 
