@@ -117,6 +117,24 @@ FeedTogether is an integrated system designed to streamline client tracking for 
 
 ## 📸 Screenshots
 
+**Login Page**  
+![Login Page](docs/images/login_page.png)
+
+**Home Page**  
+![Home Page](docs/images/home_page.png)
+
+**Meal Plan**  
+![Meal Plan](docs/images/meal_plan.png)
+
+**Scoreboard**  
+![Scoreboard](docs/images/scoreboard.png)
+
+**Daily Summary**  
+![Daily Summary](docs/images/daily_summary.png)
+
+**BMI Calculator**  
+![BMI Calculator](docs/images/BMI_calculator.png)
+
 | Home Screen                        | Daily Summary                  |
 | :---------------------------------:|:-----------------------------: |
 | ![Home Screen](docs/images/screen_home.png) | ![Daily Summary](docs/images/screen_daily.png) |
@@ -273,6 +291,24 @@ FeedTogether, beslenme alanındaki profesyonellerin (diyetisyenlerin) danışan 
 ---
 
 ## 📸 Ekran Görüntüleri
+
+**Giriş Sayfası**  
+![Giriş Sayfası](docs/images/login_page.png)
+
+**Ana Sayfa**  
+![Ana Sayfa](docs/images/home_page.png)
+
+**Yemek Planı**  
+![Yemek Planı](docs/images/meal_plan.png)
+
+**Skor Tablosu**  
+![Skor Tablosu](docs/images/scoreboard.png)
+
+**Günlük Özet**  
+![Günlük Özet](docs/images/daily_summary.png)
+
+**BMI Hesaplama**  
+![BMI Hesaplama](docs/images/BMI_calculator.png)
 
 | Ana Ekran                         | Günlük Özet                  |
 | :--------------------------------: | :--------------------------:|
