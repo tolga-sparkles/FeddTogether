@@ -104,12 +104,6 @@ FeedTogether is an integrated system designed to streamline client tracking for 
 
 ## 💬 Dietitian Commands
 
-| Command                | Description                  |
-|------------------------|-----------------------------|
-| `!client_list`         | List all clients            |
-| `!client_profile <name>`| Show client profile         |
-| `!weekly_plan`         | Send weekly meal plan       |
-
 ![Dietitian CLI Commands Screenshot](docs/images/dietitian_commands.jpg)  
 *Example screenshot of the dietitian command-line panel.*
 
@@ -143,11 +137,11 @@ FeedTogether is an integrated system designed to streamline client tracking for 
 
 ## 🤝 Contributors
 
-Project Owner: **Tolga Sparkles**  
+Project Owner: **tolga-sparkles**
+
 Developers:
-- Your Name
-- Developer 1
-- Developer 2
+- [tolga-sparkles](https://github.com/tolga-sparkles)
+- [mbydesignn](https://github.com/mbydesignn)
 
 ---
 
@@ -267,12 +261,6 @@ FeedTogether, beslenme alanındaki profesyonellerin (diyetisyenlerin) danışan 
 
 ## 💬 Diyetisyen Komutları
 
-| Komut                        | Açıklama                       |
-|------------------------------|-------------------------------|
-| `!danışan_liste`             | Tüm danışanları listeler      |
-| `!danışan_üye <isim>`        | Belirli danışan profili       |
-| `!haftalık_liste`            | Haftalık yemek planı gönderir |
-
 ![Diyetisyen CLI Komutları Ekran Görüntüleri](docs/images/dietitian_commands.jpg)  
 *Diyetisyen paneli komut ekranı örneği.*
 
@@ -306,11 +294,11 @@ FeedTogether, beslenme alanındaki profesyonellerin (diyetisyenlerin) danışan 
 
 ## 🤝 Katkıda Bulunanlar
 
-Proje Sahibi: **Tolga Sparkles**  
+Proje Sahibi: **tolga-sparkles**
+
 Geliştiriciler:
-- Adınız Soyadınız
-- Geliştirici 1
-- Geliştirici 2
+- [tolga-sparkles](https://github.com/tolga-sparkles)
+- [mbydesignn](https://github.com/mbydesignn)
 
 ---
 
