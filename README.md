@@ -6,16 +6,16 @@ FeedTogether is a hybrid platform that brings together a mobile app, server back
 
 ## 📋 Table of Contents
 
-- [About the Project](#-about-the-project)  
-- [Features](#-features)  
-- [Architecture](#-architecture)  
-- [Technologies](#-technologies)  
-- [Installation & Running](#-installation--running)  
-- [Dietitian Commands](#-dietitian-commands)  
-- [Screenshots](#-screenshots)  
-- [Roadmap](#-roadmap)  
-- [Contributors](#-contributors)  
-- [License](#-license)
+- [About the Project](#about-the-project)  
+- [Features](#features)  
+- [Architecture](#architecture)  
+- [Technologies](#technologies)  
+- [Installation & Running](#installation--running)  
+- [Dietitian Commands](#dietitian-commands)  
+- [Screenshots](#screenshots)  
+- [Roadmap](#roadmap)  
+- [Contributors](#contributors)  
+- [License](#license)
 
 ---
 
@@ -129,17 +129,23 @@ FeedTogether is an integrated system designed to streamline client tracking for 
 
 ## 📈 Roadmap
 
-- In-app AI module  
-- Subscription & payment integration  
-- Live chat & video conferencing  
-- Advanced reporting dashboard  
+- Integration of secure online payment and subscription modules for dietitian-client relationships.
+- In-app AI-powered nutritionist assistant for generating personalized meal and activity plans.
+- Real-time chat and video consultation between dietitians and clients.
+- Advanced analytics and progress dashboards for both clients and dietitians.
+- Multi-language support and localization.
+- Push notification enhancements and dynamic reminder scheduling.
+- Integration with wearable devices (e.g., smartwatches, fitness bands) for automatic activity and health data syncing.
+- Public API for third-party integrations (e.g., fitness apps, clinics).
+- Customizable reporting and export features for professionals.
 
 ---
 
 ## 🤝 Contributors
 
-Project Owner: **Your Name**  
+Project Owner: **Tolga Sparkles**  
 Developers:
+- Your Name
 - Developer 1
 - Developer 2
 
@@ -161,16 +167,16 @@ FeedTogether, beslenme danışmanlarının danışanlarına çevrimiçi destek v
 
 ## 📋 İçindekiler
 
-- [Proje Hakkında](#-proje-hakkında)  
-- [Özellikler](#-özellikler)  
-- [Mimari](#-mimari)  
-- [Teknolojiler](#-teknolojiler)  
-- [Kurulum & Çalıştırma](#-kurulum--çalıştırma)  
-- [Diyetisyen Komutları](#-diyetisyen-komutları)  
-- [Ekran Görüntüleri](#-ekran-görüntüleri)  
-- [Gelecek Planları](#-gelecek-planları)  
-- [Katkıda Bulunanlar](#-katkıda-bulunanlar)  
-- [Lisans](#-lisans)
+- [Proje Hakkında](#proje-hakkında)  
+- [Özellikler](#özellikler)  
+- [Mimari](#mimari)  
+- [Teknolojiler](#teknolojiler)  
+- [Kurulum & Çalıştırma](#kurulum--çalıştırma)  
+- [Diyetisyen Komutları](#diyetisyen-komutları)  
+- [Ekran Görüntüleri](#ekran-görüntüleri)  
+- [Gelecek Planları](#gelecek-planları)  
+- [Katkıda Bulunanlar](#katkıda-bulunanlar)  
+- [Lisans](#lisans)
 
 ---
 
@@ -267,7 +273,7 @@ FeedTogether, beslenme alanındaki profesyonellerin (diyetisyenlerin) danışan 
 | `!danışan_üye <isim>`        | Belirli danışan profili       |
 | `!haftalık_liste`            | Haftalık yemek planı gönderir |
 
-![Diyetisyen CLI Komutları Ekran Görüntüsü](docs/images/dietitian_commands.jpg)  
+![Diyetisyen CLI Komutları Ekran Görüntüleri](docs/images/dietitian_commands.jpg)  
 *Diyetisyen paneli komut ekranı örneği.*
 
 ---
@@ -286,19 +292,25 @@ FeedTogether, beslenme alanındaki profesyonellerin (diyetisyenlerin) danışan 
 
 ## 📈 Gelecek Planları
 
-- Uygulama içi yapay zeka modülü  
-- Abonelik & ödeme entegrasyonu  
-- Canlı sohbet & video konferans  
-- İleri raporlama dashboard  
+- Diyetisyen ve danışanlar arasında güvenli online ödeme ve abonelik sistemi entegrasyonu.
+- Kişiye özel yemek ve aktivite planları oluşturabilen yapay zeka modülü.
+- Gerçek zamanlı sohbet ve video görüşme desteği.
+- Danışan ve diyetisyen için gelişmiş analiz ve ilerleme ekranları.
+- Çoklu dil desteği ve yerelleştirme.
+- Gelişmiş bildirim sistemi ve esnek hatırlatma planlaması.
+- Akıllı saat, bileklik gibi giyilebilir cihazlarla otomatik sağlık verisi entegrasyonu.
+- Kamuya açık API ile üçüncü parti uygulamalarla (spor/sağlık uygulamaları, klinikler vb.) entegrasyon.
+- Profesyoneller için özelleştirilebilir raporlama ve dışa aktarma imkanı.
 
 ---
 
 ## 🤝 Katkıda Bulunanlar
 
-Proje Sahibi: **Adınız Soyadınız**  
+Proje Sahibi: **Tolga Sparkles**  
 Geliştiriciler:
-- İsim 1
-- İsim 2
+- Adınız Soyadınız
+- Geliştirici 1
+- Geliştirici 2
 
 ---
 
