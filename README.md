@@ -137,7 +137,7 @@ FeedTogether is an integrated system designed to streamline client tracking for 
 
 ## 🤝 Contributors
 
-Project Owner: **tolga-sparkles**
+Project Owner: **tolga-eyinacar**
 
 Developers:
 - [tolga-sparkles](https://github.com/tolga-sparkles)
@@ -294,7 +294,7 @@ FeedTogether, beslenme alanındaki profesyonellerin (diyetisyenlerin) danışan 
 
 ## 🤝 Katkıda Bulunanlar
 
-Proje Sahibi: **tolga-sparkles**
+Proje Sahibi: **tolga-eyinacar**
 
 Geliştiriciler:
 - [tolga-sparkles](https://github.com/tolga-sparkles)
