@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/water_menu"
+        android:icon="@drawable/water"
+        android:title="Takip"/>
+    <item
+        android:id="@+id/scoreboard_menu"
+        android:icon="@drawable/scoreboard"
+        android:title="Skor"/>
+    <item
+        android:id="@+id/main_menu"
+        android:enabled="true"
+        android:title="" />
+
+    <item
+        android:id="@+id/bmi_menu"
+        android:icon="@drawable/bmi"
+        android:title="VKİ"/>
+    <item
+        android:id="@+id/profile_menu"
+        android:icon="@drawable/person"
+        android:title="Profil"/>
+</menu>

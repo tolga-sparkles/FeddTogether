@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- BottomNavigationView için özel stil -->
+    <style name="BottomNavigationStyle" parent="Widget.Design.BottomNavigationView">
+        <item name="itemIconTint">@color/ft_siyah</item>
+        <item name="itemTextColor">@color/ft_siyah</item>
+        <item name="itemBackground">@color/ft_beyaz</item>
+    </style>
+
+</resources>

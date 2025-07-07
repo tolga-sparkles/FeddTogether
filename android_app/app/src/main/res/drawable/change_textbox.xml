@@ -1,0 +1,7 @@
+<!-- res/drawable/edittext_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Seçili durumda -->
+    <item android:state_focused="true" android:drawable="@drawable/textbox2" />
+    <!-- Normal durumda -->
+    <item android:drawable="@drawable/textbox" />
+</selector>

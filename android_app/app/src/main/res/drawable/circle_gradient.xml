@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Dıştaki halka -->
+    <item>
+        <shape android:shape="ring"
+            android:thickness="5dp"
+            android:innerRadiusRatio="2.1"
+            android:useLevel="false">
+            <gradient
+                android:startColor="#1E88E5"
+                android:endColor="#D51159"
+                android:centerColor="#00000000"
+                android:angle="45" />
+        </shape>
+    </item>
+
+    <!-- İçteki halka -->
+    <item>
+        <shape android:shape="ring"
+            android:thickness="5dp"
+        android:innerRadiusRatio="2.1"
+        android:useLevel="false">
+            <gradient
+                android:startColor="#ffc107"
+                android:endColor="#E87EFF"
+                android:centerColor="#00000000"
+                android:angle="315" />
+        </shape>
+</item>
+    </layer-list>

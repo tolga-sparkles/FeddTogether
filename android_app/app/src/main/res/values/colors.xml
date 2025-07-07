@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ft_siyah">#FF000000</color>
+    <color name="ft_beyaz">#FFFFFFFF</color>
+    <color name="ft_sari">#FFC107</color>
+    <color name="ft_textbox">#f7f7f7</color>
+</resources>
