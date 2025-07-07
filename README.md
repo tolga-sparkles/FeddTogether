@@ -1,4 +1,4 @@
-<img src="docs/images/banner.jpg" width="300"/>
+<img src="docs/images/banner.jpg"/>
 
 FeedTogether is a hybrid platform that brings together a mobile app, server backend, SMS/WhatsApp notifications, and automation infrastructure to enable dietitians to provide online support to their clients.
 
