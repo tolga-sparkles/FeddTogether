@@ -116,26 +116,19 @@ FeedTogether is an integrated system designed to streamline client tracking for 
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
-| Login Page                                                    | Home Page                                                     |
-|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
-| <img src="docs/images/login_page.png" width="220"/>           | <img src="docs/images/home_page.png" width="220"/>            |
+| Login Page | Home Page | Meal Plan | Scoreboard |
+|:----------:|:---------:|:---------:|:----------:|
+| <img src="docs/images/login_page.png" width="140"/> | <img src="docs/images/home_page.png" width="140"/> | <img src="docs/images/meal_plan.png" width="140"/> | <img src="docs/images/scoreboard.png" width="140"/> |
 
-| Meal Plan                                                     | Scoreboard                                                    |
-|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
-| <img src="docs/images/meal_plan.png" width="220"/>            | <img src="docs/images/scoreboard.png" width="220"/>           |
+| Daily Summary | BMI Calculator | Home Screen | Daily Summary Screen |
+|:-------------:|:-------------:|:-----------:|:-------------------:|
+| <img src="docs/images/daily_summary.png" width="140"/> | <img src="docs/images/BMI_calculator.png" width="140"/> | <img src="docs/images/screen_home.png" width="140"/> | <img src="docs/images/screen_daily.png" width="140"/> |
 
-| Daily Summary                                                 | BMI Calculator                                                |
-|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
-| <img src="docs/images/daily_summary.png" width="220"/>        | <img src="docs/images/BMI_calculator.png" width="220"/>       |
-
-| Home Screen                                                   | Daily Summary Screen                                          |
-|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
-| <img src="docs/images/screen_home.png" width="220"/>          | <img src="docs/images/screen_daily.png" width="220"/>         |
-
-| Meal Plan View                                                | BMI Calculator View                                           |
-|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
-| <img src="docs/images/screen_plan.png" width="220"/>          | <img src="docs/images/screen_bmi.png" width="220"/>           |
+| Meal Plan View | BMI Calculator View |
+|:--------------:|:------------------:|
+| <img src="docs/images/screen_plan.png" width="140"/> | <img src="docs/images/screen_bmi.png" width="140"/> |
 
 ---
 
