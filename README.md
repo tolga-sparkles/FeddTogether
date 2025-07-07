@@ -6,16 +6,16 @@ FeedTogether is a hybrid platform that brings together a mobile app, server back
 
 ## 📋 Table of Contents
 
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Technologies](#technologies)
-- [Installation & Running](#installation--running)
-- [Dietitian Commands](#dietitian-commands)
-- [Screenshots](#screenshots)
-- [Roadmap](#roadmap)
-- [Contributors](#contributors)
-- [License](#license)
+- [About the Project](#-about-the-project)
+- [Features](#-features)
+- [Architecture](#-architecture)
+- [Technologies](#-technologies)
+- [Installation & Running](#-installation--running)
+- [Dietitian Commands](#-dietitian-commands)
+- [Screenshots](#-screenshots)
+- [Roadmap](#-roadmap)
+- [Contributors](#-contributors)
+- [License](#-license)
 
 ---
 
@@ -167,16 +167,16 @@ FeedTogether, beslenme danışmanlarının danışanlarına çevrimiçi destek v
 
 ## 📋 İçindekiler
 
-- [Proje Hakkında](#proje-hakkında)
-- [Özellikler](#özellikler)
-- [Mimari](#mimari)
-- [Teknolojiler](#teknolojiler)
-- [Kurulum & Çalıştırma](#kurulum--çalıştırma)
-- [Diyetisyen Komutları](#diyetisyen-komutları)
-- [Ekran Görüntüleri](#ekran-görüntüleri)
-- [Gelecek Planları](#gelecek-planları)
-- [Katkıda Bulunanlar](#katkıda-bulunanlar)
-- [Lisans](#lisans)
+- [Proje Hakkında](#-proje-hakkında)
+- [Özellikler](#-özellikler)
+- [Mimari](#-mimari)
+- [Teknolojiler](#-teknolojiler)
+- [Kurulum--çalıştırma](#-kurulum--çalıştırma)
+- [Diyetisyen Komutları](#-diyetisyen-komutları)
+- [Ekran Görüntüleri](#-ekran-görüntüleri)
+- [Gelecek Planları](#-gelecek-planları)
+- [Katkıda Bulunanlar](#-katkıda-bulunanlar)
+- [Lisans](#-lisans)
 
 ---
 
@@ -239,7 +239,7 @@ FeedTogether, beslenme alanındaki profesyonellerin (diyetisyenlerin) danışan 
 
 ---
 
-## ⚙️ Kurulum & Çalıştırma
+## ⚙️ Kurulum--Çalıştırma
 
 1. **Repoyu klonlayın**
    ```bash
