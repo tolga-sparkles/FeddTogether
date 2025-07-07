@@ -110,7 +110,7 @@ FeedTogether is an integrated system designed to streamline client tracking for 
 | `!client_profile <name>`| Show client profile         |
 | `!weekly_plan`         | Send weekly meal plan       |
 
-![Dietitian CLI Commands Screenshot](docs/images/dietitian_commands.png)  
+![Dietitian CLI Commands Screenshot](docs/images/dietitian_commands.jpg)  
 *Example screenshot of the dietitian command-line panel.*
 
 ---
@@ -267,7 +267,7 @@ FeedTogether, beslenme alanındaki profesyonellerin (diyetisyenlerin) danışan 
 | `!danışan_üye <isim>`        | Belirli danışan profili       |
 | `!haftalık_liste`            | Haftalık yemek planı gönderir |
 
-![Diyetisyen CLI Komutları Ekran Görüntüsü](docs/images/dietitian_commands.png)  
+![Diyetisyen CLI Komutları Ekran Görüntüsü](docs/images/dietitian_commands.jpg)  
 *Diyetisyen paneli komut ekranı örneği.*
 
 ---
